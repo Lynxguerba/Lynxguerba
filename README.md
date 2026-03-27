@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true" />
@@ -35,7 +35,7 @@
 </table>
 
 <!-- Row 2: Top Languages compact (centered) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact" />
 
 <!-- Row 3: Summary Cards (3 in a row) -->
 <table>
@@ -53,7 +53,7 @@
 </table>
 
 <!-- Row 4: Profile Summary full width -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lynxguerba&theme=dracula)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lynxguerba&theme=dracula" />
 
 </div>
 
