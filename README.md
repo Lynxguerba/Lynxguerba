@@ -21,19 +21,44 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true)
 
-![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynxguerba&theme=dracula)
-![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynxguerba&theme=dracula)
-![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynxguerba&theme=dracula&utcOffset=8)
+<!-- Row 1: Stats + Streak side by side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
+<!-- Row 2: Top Languages compact (centered) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact)
+
+<!-- Row 3: Summary Cards (3 in a row) -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lynxguerba&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lynxguerba&theme=dracula" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lynxguerba&theme=dracula&utcOffset=8" />
+    </td>
+  </tr>
+</table>
+
+<!-- Row 4: Profile Summary full width -->
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lynxguerba&theme=dracula)
 
 </div>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Lynxguerba&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
