@@ -106,6 +106,6 @@
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [Your Portfolio Link](https://dgportfolio-nu.vercel.app/) |
-| 💼 LinkedIn | [Your LinkedIn Link](https://www.linkedin.com/in/lynx-g-3660a6325/) |
-| 📧 Email | [Your Email](dinnoguerba@gmail.com) |
+| 🌐 Portfolio | [DG Portfolio](https://dgportfolio-nu.vercel.app/) |
+| 💼 LinkedIn | [Lynx-G](https://www.linkedin.com/in/lynx-g-3660a6325/) |
+| 📧 Email | [dinnomguerba@gmail.com](dinnomguerba@gmail.com) |
