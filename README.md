@@ -1,4 +1,4 @@
-## Hello, Thanks for visiting Me💙🙂‍↕️
+## Hello, Thanks for visiting Me💙
 
 # 👋 I'm Dinno
 
