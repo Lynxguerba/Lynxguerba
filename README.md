@@ -68,7 +68,6 @@
     <td>
       <!-- Top Languages compact (centered) -->
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact" />
-     
     </td>
   </tr>
 </table>
