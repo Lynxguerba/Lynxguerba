@@ -66,7 +66,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td>
-     
+      <img src="https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true" />
     </td>
   </tr>
 </table>
