@@ -59,20 +59,22 @@
 
 <div align="center">
 
-<!-- Row 1: Stats + Streak side by side -->
+<!-- Row 1: Stats side by side -->
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lynxguerba&show_icons=true&theme=dark&hide_border=true" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true" />
+      <!-- Top Languages compact (centered) -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact" />
+     
     </td>
   </tr>
 </table>
 
-<!-- Row 2: Top Languages compact (centered) -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lynxguerba&theme=dark&hide_border=true&layout=compact" />
+<!-- Row 2: : Streak  -->
+ <img src="https://streak-stats.demolab.com?user=Lynxguerba&theme=dark&hide_border=true" />
 
 <!-- Row 3: Summary Cards (3 in a row) -->
 <table>
