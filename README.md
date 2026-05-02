@@ -39,25 +39,25 @@
   <!-- First Row -->
   <tr>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1kifWie7D6nwesLwDlYzSS1qOZncJ-vaB" width="400" alt="Gallery Image 1" />
+      <img src="https://lh3.googleusercontent.com/d/1kifWie7D6nwesLwDlYzSS1qOZncJ-vaB" width="300" alt="Gallery Image 1" />
     </td>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1RkJUExawfMK6n7OIMrKfvvzldGeR3f7c" width="400" alt="Gallery Image 2" />
+      <img src="https://lh3.googleusercontent.com/d/1RkJUExawfMK6n7OIMrKfvvzldGeR3f7c" width="300" alt="Gallery Image 2" />
     </td>
   </tr>
   <!-- Second Row -->
   <tr>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1wbLM5gR-mNN__xZEZCdg68scn-cuSYz_" width="400" alt="Gallery Image 3" />
+      <img src="https://lh3.googleusercontent.com/d/1wbLM5gR-mNN__xZEZCdg68scn-cuSYz_" width="300" alt="Gallery Image 3" />
     </td>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1xm_L2mkPrLr9pDpolB-4M56akC2LNGTo" width="400" alt="Gallery Image 4" />
+      <img src="https://lh3.googleusercontent.com/d/1xm_L2mkPrLr9pDpolB-4M56akC2LNGTo" width="300" alt="Gallery Image 4" />
     </td>
   </tr>
   <!-- Third Row (Spanning 2 columns) -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://lh3.googleusercontent.com/d/1V0EahO3c4MiitysNyMrQ3AVCIM4UOkHc" width="805" alt="Gallery Image 5" />
+      <img src="https://lh3.googleusercontent.com/d/1V0EahO3c4MiitysNyMrQ3AVCIM4UOkHc" width="605" alt="Gallery Image 5" />
     </td>
   </tr>
 </table>
