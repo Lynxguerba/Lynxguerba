@@ -48,10 +48,10 @@
   <!-- Second Row -->
   <tr>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1wbLM5gR-mNN__xZEZCdg68scn-cuSYz_" width="300" alt="Gallery Image 3" />
+      <img src="https://lh3.googleusercontent.com/d/1xm_L2mkPrLr9pDpolB-4M56akC2LNGTo" width="300" alt="Gallery Image 4" />
     </td>
     <td align="center">
-      <img src="https://lh3.googleusercontent.com/d/1xm_L2mkPrLr9pDpolB-4M56akC2LNGTo" width="300" alt="Gallery Image 4" />
+      <img src="https://lh3.googleusercontent.com/d/1wbLM5gR-mNN__xZEZCdg68scn-cuSYz_" width="300" alt="Gallery Image 3" />
     </td>
   </tr>
   <!-- Third Row (Spanning 2 columns) -->
