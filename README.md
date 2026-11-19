@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/7463ee6c-ebae-4bb3-8672-88cb76288fad
+<p align="center"><img src="assets/profile-banner.gif" alt="Animated profile banner" width="100%" /></p>
 
 ## Hello, Thanks for visiting Me💙
 
