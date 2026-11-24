@@ -94,7 +94,7 @@
 ---
 
 ## 📫 Connect with Me
-
+ 
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | [DG Portfolio](https://dinnoguerba.vercel.app/) |
